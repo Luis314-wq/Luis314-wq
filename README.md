@@ -11,4 +11,5 @@ Estou me desenvolvendo na linguagem JavaScript
 0000111954354xsp@ap.educacao.sp.gov.br  
 @luis.bibaozinho 
 
-![](https://tenor.com/pt-BR/view/naruto-gif-19427546)
+![
+[image](https://github.com/user-attachments/assets/4d4331b5-1ca0-4105-a478-4eb72499f1b2)
